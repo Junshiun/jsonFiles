@@ -1,4 +1,38 @@
 {  
+    "head": {
+        "Intro": "Currently living in KL, Malaysia. A lifelong learner with passion in programming.",
+        "Skills": ["JavaScript", "HTML", "CSS", "React", "Git", "Photoshop", "Illustrator"]
+    },
+    "aboutMe": {
+        "Intro": "An electronic engineering graduate with over one year of experience in semiconductor field. Looking to take advantage of knowledge in programming to enhance and apply my skills in front end development. Passionate about technology and always be willing to learn and contribute as a team player.",
+        "Career": [
+            {
+                "Title": "Design Verification Engineer",
+                "Period": "Aug 2020 - Dec 2021",
+                "Company": "Realtek Semiconductor (Malaysia) Sdn. Bhd.",
+                "Description": ["develop comprehensive test plans, design direct and random test cases to verify the correctness of the hardware design", "work and communicate with different departments to perform verification and validation of system functions", "create reusable test codes to improve productivity and efficiency"]
+            },
+            {
+                "Title": "Internship",
+                "Period": "Jun 2019 - Aug 2019",
+                "Company": "Willowglen MSC Bhd",
+                "Description": ["prepare schematic diagram and documentation for quality check"]
+            }
+        ],
+        "Academic": [
+            {
+                "Title": "Bachelor of Engineering (Electrical - Electronics)",
+                "Period": "Aug 2016 - Aug 2020",
+                "School": "University Technology Malaysia (UTM)",
+                "Description": ["major in Computer Engineering"]
+            },
+            {
+                "Title": "STPM",
+                "Period": "2014 -2015",
+                "School": "SMK Desa Mahkota"
+            }
+        ]
+    },
     "mainProjects":[
     {
         "Title": "Shopping",
@@ -16,5 +50,23 @@
         "Live": "https://junshiun.github.io/look-for-movies/",
         "Github": "https://github.com/Junshiun/look-for-movies"
     }
-    ]
+    ],
+    "smallProjects": [
+            {
+                "Title": "Random Quote Machine",
+                "Skills": ["React", "Javascript", "HTML", "CSS"],
+                "Github": "https://github.com/Junshiun/random-quote-machine"
+            },
+            {
+                "Title": "Calculator",
+                "Skills": ["React", "Javascript", "HTML", "CSS"],
+                "Github": ""
+            },
+            {
+                "Title": "Drum Machine",
+                "Skills": ["React", "Javascript", "HTML", "CSS"],
+                "Github": ""
+            }
+    ],
+    "resume": ""
 }
