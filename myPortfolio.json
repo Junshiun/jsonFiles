@@ -1,4 +1,5 @@
-[
+{  
+    "mainProjects":[
     {
         "Title": "Shopping",
         "Image": "shop.png",
@@ -15,4 +16,5 @@
         "Live": "https://junshiun.github.io/look-for-movies/",
         "Github": "https://github.com/Junshiun/look-for-movies"
     }
-]
+    ]
+}
