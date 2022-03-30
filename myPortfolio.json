@@ -53,7 +53,8 @@
         "Github": "https://github.com/Junshiun/look-for-movies"
     },
     {
-        "State": 0,
+        "State": "coding",
+        "Progress": "0%",
         "Title": "Unknown Project",
         "Image": "",
         "AltImage": "",
