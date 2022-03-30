@@ -1,10 +1,10 @@
 {  
     "head": {
-        "Intro": "Currently living in KL, Malaysia. A lifelong learner with passion in programming.",
+        "Intro": "Based in KL, Malaysia. A lifelong learner who enjoys web development.",
         "Skills": ["JavaScript", "HTML", "CSS", "React", "Git", "Photoshop", "Illustrator"]
     },
     "aboutMe": {
-        "Intro": "An electronic engineering graduate with over one year of experience in semiconductor field. Looking to take advantage of knowledge in programming to enhance and apply my skills in front end development. Passionate about technology and always be willing to learn and contribute as a team player.",
+        "Intro": "Nice to meet you, thanks for visiting my page! My name is Jun Shiun, and front-end web development is a friend of mine. Got my first touch in web development during final year in university, and start to get attracted by the infinite possibilities and creativity of this community.",
         "Career": [
             {
                 "Title": "Design Verification Engineer",
@@ -38,7 +38,7 @@
         "Title": "Shopping",
         "Image": "shop.png",
         "Skills": ["React", "Javascript", "CSS", "HTML", "Stripe", "Nodejs"],
-        "Overview": "Products are fetched from Fakestore API and categorized into 4 categories. With filter system applied, highlighted products will be shown on main page. Cart will be updated synchronously for checkout purposes. Stripe API is used as payment platform with Nodejs as server side" ,
+        "Overview": "An ecommerce website with shopping cart and payment features. Built by using React and Javascript for state management and routing, together with CSS and HTML for responsive design. Products are fetched from Fakestore API and transformed into simple interface. Stripe API is used as payment platform with Nodejs as back-end server side." ,
         "Live": "https://junshiun.github.io/shopping/",
         "Github": "https://github.com/Junshiun/shopping"
     },
@@ -46,7 +46,7 @@
         "Title": "Look for Movies",
         "Image": "movie.png",
         "Skills": ["Javascript", "CSS", "HTML"],
-        "Overview": "A Vanilla javascript project for users to search for movies. All data are fetched from The Movie Database (TMDB). An overview will be shown for each movie on main page and more details are provided by clicking movie's title." ,
+        "Overview": "A Vanilla javascript project for users to search for movies. All data are fetched from The Movie Database (TMDB) API. Provides trending movies on the main page and display each movie's details by clicking movies' title" ,
         "Live": "https://junshiun.github.io/look-for-movies/",
         "Github": "https://github.com/Junshiun/look-for-movies"
     }
