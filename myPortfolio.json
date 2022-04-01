@@ -58,7 +58,7 @@
         "Title": "Unknown Project",
         "Image": "",
         "AltImage": "",
-        "Skills": ["Angular"],
+        "Skills": ["Angular", "SCSS"],
         "Overview": "" ,
         "Live": "",
         "Github": ""
