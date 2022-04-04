@@ -73,12 +73,12 @@
             {
                 "Title": "Calculator",
                 "Skills": ["React", "Javascript", "HTML", "CSS"],
-                "Github": ""
+                "Github": "https://github.com/Junshiun/calculator"
             },
             {
                 "Title": "Drum Machine",
                 "Skills": ["React", "Javascript", "HTML", "CSS"],
-                "Github": ""
+                "Github": "https://github.com/Junshiun/drumMachine"
             }
     ],
     "resume": "https://drive.google.com/file/d/1YBbS_8DnUvDjCQJmmden1f8b0aPG0dtX/view?usp=sharing"
