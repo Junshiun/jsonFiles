@@ -58,7 +58,7 @@
         "Title": "Unknown Project",
         "Image": "",
         "AltImage": "",
-        "Skills": ["Angular", "SCSS"],
+        "Skills": ["Angular", "TypeScript", "SCSS"],
         "Overview": "" ,
         "Live": "https://junshiun.github.io/news-station/",
         "Github": ""
