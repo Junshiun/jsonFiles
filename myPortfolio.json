@@ -44,7 +44,7 @@
         "Overview": "News Station is a project built by using Angular for latest news and headlines update. Realtime data from OpenWeatherMap API is fetched and displayed in weather widget, according to the location and timezone of users. News content is retrieved from The Guardian API and categorized into few categories. Styling by SCSS for mobile responsive to enhance news reading experience.",
         "Live": "https://junshiun.github.io/news-station/",
         "Github": "https://github.com/Junshiun/news-station"
-    }
+    },
     {
         "Title": "Shopping",
         "Image": "https://drive.google.com/uc?export=view&id=15DhOqGbYRe2rXrTjPFy1--aez-_trlBr",
