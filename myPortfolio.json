@@ -35,8 +35,8 @@
     },
     "mainProjects":[
     {
-        //"State": "coding",
-        //"Progress": "0%",
+        "__State": "coding",
+        "__Progress": "0%",
         "Title": "news Station",
         "Image": "https://drive.google.com/file/d/1EA9xA4V-cGPXwBehDw7yD1xJMOU_5wLY/view?usp=sharing",
         "AltImage": "",
@@ -63,17 +63,6 @@
         "Live": "https://junshiun.github.io/look-for-movies/",
         "Github": "https://github.com/Junshiun/look-for-movies"
     },
-    /*{
-        "State": "coding",
-        "Progress": "0%",
-        "Title": "Unknown Project",
-        "Image": "",
-        "AltImage": "",
-        "Skills": ["Angular", "TypeScript", "SCSS"],
-        "Overview": "" ,
-        "Live": "https://junshiun.github.io/news-station/",
-        "Github": ""
-    }*/
     ],
     "smallProjects": [
             {
