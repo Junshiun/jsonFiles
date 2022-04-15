@@ -38,7 +38,7 @@
         "__State": "coding",
         "__Progress": "0%",
         "Title": "news Station",
-        "Image": "https://drive.google.com/file/d/1EA9xA4V-cGPXwBehDw7yD1xJMOU_5wLY/view?usp=sharing",
+        "Image": "https://drive.google.com/uc?export=view&id=1EA9xA4V-cGPXwBehDw7yD1xJMOU_5wLY",
         "AltImage": "",
         "Skills": ["Angular", "TypeScript", "HTML", "SCSS"],
         "Overview": "News Station is a project built by using Angular for latest news and headlines update. Realtime data from OpenWeatherMap API is fetched and displayed in weather widget, according to the location and timezone of users. News content is retrieved from The Guardian API and categorized into few categories. Styling by SCSS for mobile responsive to enhance news reading experience.",
