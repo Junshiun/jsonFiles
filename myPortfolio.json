@@ -35,6 +35,17 @@
     },
     "mainProjects":[
     {
+        //"State": "coding",
+        //"Progress": "0%",
+        "Title": "news Station",
+        "Image": "https://drive.google.com/file/d/1EA9xA4V-cGPXwBehDw7yD1xJMOU_5wLY/view?usp=sharing",
+        "AltImage": "",
+        "Skills": ["Angular", "TypeScript", "HTML", "SCSS"],
+        "Overview": "News Station is a project built by using Angular for latest news and headlines. Realtime data from OpenWeatherMap API is fetched and displayed in weather widget, according to the location and timezone of users. News content is retrieved from The Guardian API and categorized into few categories. Styling by SCSS for mobile responsive to enhance news reading experience.",
+        "Live": "https://junshiun.github.io/news-station/",
+        "Github": "https://github.com/Junshiun/news-station"
+    }
+    {
         "Title": "Shopping",
         "Image": "https://drive.google.com/uc?export=view&id=15DhOqGbYRe2rXrTjPFy1--aez-_trlBr",
         "AltImage": "shop.png",
@@ -52,7 +63,7 @@
         "Live": "https://junshiun.github.io/look-for-movies/",
         "Github": "https://github.com/Junshiun/look-for-movies"
     },
-    {
+    /*{
         "State": "coding",
         "Progress": "0%",
         "Title": "Unknown Project",
@@ -62,7 +73,7 @@
         "Overview": "" ,
         "Live": "https://junshiun.github.io/news-station/",
         "Github": ""
-    }
+    }*/
     ],
     "smallProjects": [
             {
