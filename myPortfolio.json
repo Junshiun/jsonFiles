@@ -49,7 +49,7 @@
         "Title": "Shopping",
         "Image": "https://drive.google.com/uc?export=view&id=15DhOqGbYRe2rXrTjPFy1--aez-_trlBr",
         "AltImage": "shop.png",
-        "Skills": ["React", "Javascript", "CSS", "HTML", "Stripe", "Nodejs"],
+        "Skills": ["React", "Javascript", "CSS", "HTML", "Stripe", "Nodejs", "Expressjs"],
         "Overview": "An ecommerce website with shopping cart and payment features. Built by using React and Javascript for state management and routing, together with CSS and HTML for responsive design. Products are fetched from Fakestore API and transformed into simple interface. Stripe API is used as payment platform with Nodejs as back-end server side." ,
         "Live": "https://junshiun.github.io/shopping/",
         "Github": "https://github.com/Junshiun/shopping"
@@ -62,6 +62,17 @@
         "Overview": "A Vanilla javascript project for users to search for movies. All data are fetched from The Movie Database (TMDB) API. Provides trending movies on the main page and display each movie's details by clicking movies' title" ,
         "Live": "https://junshiun.github.io/look-for-movies/",
         "Github": "https://github.com/Junshiun/look-for-movies"
+    },
+    {
+        "State": "coding",
+        "Progress": "0%",
+        "Title": "",
+        "Image": "",
+        "AltImage": "",
+        "Skills": ["Vue", "HTML", "CSS", "MongoDB", "Nodejs", "Expressjs"],
+        "Overview": "",
+        "Live": "",
+        "Github": ""
     }
     ],
     "smallProjects": [
