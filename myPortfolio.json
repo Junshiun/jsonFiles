@@ -1,7 +1,7 @@
 {  
     "head": {
         "Intro": "Based in KL, Malaysia. A lifelong learner who enjoys web development.",
-        "Skills": ["JavaScript", "HTML", "CSS", "SCSS", "React", "TypeScript", "Angular", "Git", "Photoshop", "Illustrator"]
+        "Skills": ["JavaScript", "HTML", "CSS", "SCSS", "React", "Vue", "TypeScript", "Angular", "Git", "Photoshop", "Illustrator"]
     },
     "aboutMe": {
         "Intro": "Nice to meet you, thanks for visiting my page! My name is Jun Shiun, and front-end web development is a friend of mine. Got my first touch in web development during final year in university, and start to get attracted by the infinite possibilities and creativity of this community.",
