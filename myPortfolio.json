@@ -73,6 +73,17 @@
         "Overview": "A Vanilla javascript project for users to search for movies. All data are fetched from The Movie Database (TMDB) API. Provides trending movies on the main page and display each movie's details by clicking movies' title" ,
         "Live": "https://junshiun.github.io/look-for-movies/",
         "Github": "https://github.com/Junshiun/look-for-movies"
+    },
+    {
+        "State": "coding",
+        "Progress": "5%",
+        "Title": "",
+        "Image": "",
+        "AltImage": "",
+        "Skills": ["React", "HTML", "CSS", "React Native", "MongoDB", "NodeJS", "ExpressJS"],
+        "Overview": "",
+        "Live": "",
+        "Github": ""
     }
     ],
     "smallProjects": [
