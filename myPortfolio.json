@@ -80,7 +80,7 @@
         "Title": "",
         "Image": "",
         "AltImage": "",
-        "Skills": ["React", "HTML", "CSS", "React Native", "MongoDB", "NodeJS", "ExpressJS", "Mapbox"],
+        "Skills": ["React", "Redux", "HTML", "CSS", "React Native", "MongoDB", "NodeJS", "ExpressJS", "Google Maps"],
         "Overview": "",
         "Live": "",
         "Github": ""
