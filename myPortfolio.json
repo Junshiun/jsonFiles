@@ -76,14 +76,14 @@
     },
     {
         "State": "coding",
-        "Progress": "5%",
+        "Progress": "10%",
         "Title": "",
         "Image": "",
         "AltImage": "",
         "Skills": ["React", "Redux", "HTML", "CSS", "React Native", "MongoDB", "NodeJS", "ExpressJS", "Google Maps"],
         "Overview": "",
-        "Live": "",
-        "Github": ""
+        "Live": "https://junshiun.github.io/mapping/",
+        "Github": "https://github.com/Junshiun/mapping"
     }
     ],
     "smallProjects": [
