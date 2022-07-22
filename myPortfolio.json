@@ -75,6 +75,15 @@
         "Github": "https://github.com/Junshiun/look-for-movies"
     },
     {
+        "Title": "Channel Listing",
+        "Image": "https://drive.google.com/uc?export=view&id=1uiWiNDRC8VFc5RMfkyE544QeBf_KVcbR",
+        "AltImage": "",
+        "Skills": ["React", "Javascript", "SCSS", "HTML"],
+        "Overview": "A front end project built by using React, for users to get latest updates on channel schedule and information. Provides sorting, searching, filtering and user's favourites features for better user experience when going through all entertaining channels!",
+        "Live": "https://junshiun.github.io/astroChannels/",
+        "Github": "https://github.com/Junshiun/astroChannels"
+    },
+    {
         "State": "coding",
         "Progress": "10%",
         "Title": "",
