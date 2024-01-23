@@ -49,7 +49,7 @@
         "__State": "coding",
         "__Progress": "0%",
         "Title": "news Station",
-        "Image": "https://drive.google.com/thumbnail?id=1cP3byijuTUsq8S0GfiXKAlNO5TY6obEj",
+        "Image": "https://drive.google.com/thumbnail?id=1cP3byijuTUsq8S0GfiXKAlNO5TY6obEj&sz=w300",
         "AltImage": "",
         "Skills": ["Angular", "TypeScript", "HTML", "SCSS"],
         "Overview": "News Station is a project built by using Angular for latest news and headlines update. Realtime data from OpenWeatherMap API is fetched and displayed in weather widget, according to the location and timezone of users. News content is retrieved from The Guardian API and categorized into few categories. Styling by SCSS for mobile responsive to enhance news reading experience.",
@@ -58,7 +58,7 @@
     },
     {
         "Title": "Shopping",
-        "Image": "https://drive.google.com/thumbnail?id=1kgSXgmrXwldktTXS_QpIjkKpDeG2Pr2E",
+        "Image": "https://drive.google.com/thumbnail?id=1kgSXgmrXwldktTXS_QpIjkKpDeG2Pr2E&sz=w300",
         "AltImage": "shop.png",
         "Skills": ["React", "Javascript", "CSS", "HTML", "Stripe", "NodeJS", "ExpressJS"],
         "Overview": "An ecommerce website with shopping cart and payment features. Built by using React and Javascript for state management and routing, together with CSS and HTML for responsive design. Products are fetched from Fakestore API and transformed into simple interface. Stripe API is used as payment platform with Nodejs as back-end server side." ,
@@ -67,7 +67,7 @@
     },
     {
         "Title": "Look for Movies",
-        "Image": "https://drive.google.com/thumbnail?id=19rOeG29RhSb1r6sKDm4-CoaO6qdg_V_7",
+        "Image": "https://drive.google.com/thumbnail?id=19rOeG29RhSb1r6sKDm4-CoaO6qdg_V_7&sz=w300",
         "AltImage": "movie.png",
         "Skills": ["Javascript", "CSS", "HTML"],
         "Overview": "A Vanilla javascript project for users to search for movies. All data are fetched from The Movie Database (TMDB) API. Provides trending movies on the main page and display each movie's details by clicking movies' title" ,
@@ -76,7 +76,7 @@
     },
     {
         "Title": "Channel Listing",
-        "Image": "https://drive.google.com/thumbnail?id=1Gs1nbBF-EroouA7hPMv1yd6UCPC50LLN",
+        "Image": "https://drive.google.com/thumbnail?id=1Gs1nbBF-EroouA7hPMv1yd6UCPC50LLN&sz=w300",
         "AltImage": "",
         "Skills": ["React", "Javascript", "SCSS", "HTML"],
         "Overview": "A front end project built by using React, for users to get latest updates on channel schedule and information. Provides sorting, searching, filtering and user's favourites features for better user experience when going through all entertaining channels!",
