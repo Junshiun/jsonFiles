@@ -38,7 +38,7 @@
         "__State": "coding",
         "__Progress": "0%",
         "Title": "Jotes",
-        "Image": "https://drive.google.com/uc?export=view&id=1VszyQf_ThCfLyoZfkxJOgPmaEUfjMeOc",
+        "Image": "https://drive.google.com/thumbnail?id=1_e94IDRenM4wShKnAl6pwZBECdXbFOZ2",
         "AltImage": "",
         "Skills": ["Vue", "HTML", "CSS", "MongoDB", "NodeJS", "ExpressJS"],
         "Overview": "Jotes is a full stack project built by using MEVN (MongoDB, EspressJS, Vue, NodeJS). Vue framework is used as front end framework, with HTML and CSS for interactive interface and mobile responsive design. Back end is implemented for user authentication system and notes database. Users are able to create, edit, categorize and manage the notes by using Jotes, which is the short form for 'Jot down your Notes'!",
